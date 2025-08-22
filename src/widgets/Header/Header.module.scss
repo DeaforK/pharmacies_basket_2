@@ -1,0 +1,8 @@
+.arrow {
+    &:hover {
+        color: #444952 !important;
+    }
+    &:hover path{
+        stroke: #78808F;
+    }
+}

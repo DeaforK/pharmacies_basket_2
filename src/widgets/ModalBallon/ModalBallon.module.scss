@@ -1,0 +1,11 @@
+.button {
+    &:hover svg path {
+        stroke: #00C293; 
+    }
+}
+
+.cross {
+    &:hover svg path {
+        stroke: #78808F;
+    }
+}

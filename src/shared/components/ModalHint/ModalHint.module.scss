@@ -1,0 +1,30 @@
+.modal_hint {
+    // position: relative;
+    display: flex;
+    align-items: center;
+    z-index: 100;
+}
+.triangle_bottom {
+    border-left: 10px solid transparent !important;
+    border-right: 10px solid transparent !important;
+    border-bottom: 10px solid #30312f !important;
+    transform: rotateZ(-90deg) !important;
+    transform:  scaleY(-1) !important;
+
+    bottom: -5px;
+    left: 45% !important;
+}
+.triangle {
+    width: 10px !important;
+    height: 6px !important;
+    position: absolute;
+    border: 0px;
+    border-left: 10px solid transparent;
+    border-right: 10px solid transparent;
+    border-bottom: 10px solid #30312f;
+    background-color: transparent;
+    transform:  scaleX(1);
+    transform: rotateZ(-90deg);
+    border-radius: 25px;
+    left: -11px;
+}

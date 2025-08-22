@@ -1,0 +1,166 @@
+[
+    {
+      "id": 1,
+      "name": "ЗдравСити",
+      "logo": "/logo_shop.png",
+      "distance_km": 2,
+      "rating": 4.8,
+      "address": "Серпуховский Вал ул, 21 к 4, Москва",
+      "work_time": "08:00-22:00 Пн-Пт, 09:00-21:00 Сб-Вс",
+      "min_price": 143,
+      "total_items": 25,
+      "available_items": 25,
+      "delivery_time": "Забрать завтра",
+      "min_price_tag": true,
+      "long_term_assembly_tag": true,
+      "middle_price_tag": false,
+      "not_available": false,
+      "from_warehouse": true,
+      "paymentCash" : true,
+      "one_hour_assembly_tag": true,
+      "is_min_price": false,
+      "products": [
+        {
+          "name": "Супрастин (для инъекций), 20 мг/мл",
+          "price": 12800,
+          "quantity": 3,
+          "availability": "В наличии"
+        },
+        {
+          "name": "Цитрамон Ультра, 10 табл.",
+          "price": 120,
+          "quantity": 2,
+          "availability": "В наличии"
+        },
+        {
+          "name": "Нурофен сироп детский",
+          "price": 360,
+          "quantity": 1,
+          "availability": "В наличии"
+        }
+      ]
+    },
+    {
+      "id": 2,
+      "name": "ГорЗдрав",
+      "logo": "https://example.com/logo2.png",
+      "distance_km": 4,
+      "rating": 4.3,
+      "address": "Ленинский проспект, 55, Москва",
+      "work_time": "09:00-21:00 Пн-Вс",
+      "min_price": 150,
+      "total_items": 25,
+      "available_items": 12,
+      "delivery_time": "Забрать завтра",
+      "min_price_tag": false,
+      "long_term_assembly_tag": false,
+      "middle_price_tag": true,
+      "not_available": false,
+      "from_warehouse": false,
+      "paymentCash" : false,
+      "is_min_price": false,
+      "one_hour_assembly_tag": false,
+      "products": [
+        {
+          "name": "Супрастин (для инъекций), 20 мг/мл",
+          "price": 12800,
+          "quantity": 3,
+          "availability": "В наличии"
+        },
+        {
+          "name": "Цитрамон Ультра, 10 табл.",
+          "price": 120,
+          "quantity": 0,
+          "availability": "Нет в наличии"
+        },
+        {
+          "name": "Нурофен сироп детский",
+          "price": 360,
+          "quantity": 0,
+          "availability": "Нет в наличии"
+        }
+      ]
+    },
+    {
+      "id": 3,
+      "name": "Неофарм",
+      "logo": "https://example.com/logo3.png",
+      "distance_km": 5.2,
+      "rating": 4.1,
+      "address": "Проспект Вернадского, 12, Москва",
+      "work_time": "08:00-20:00 Пн-Пт",
+      "min_price": 138,
+      "total_items": 25,
+      "available_items": 0,
+      "delivery_time": "Нет доставки",
+      "min_price_tag": false,
+      "long_term_assembly_tag": false,
+      "middle_price_tag": false,
+      "not_available": true,
+      "from_warehouse": false,
+      "paymentCash" : false,
+      "is_min_price": false,
+      "one_hour_assembly_tag": false,
+      "products": [
+        {
+          "name": "Супрастин (для инъекций), 20 мг/мл",
+          "price": 12800,
+          "quantity": 0,
+          "availability": "Нет в наличии"
+        },
+        {
+          "name": "Цитрамон Ультра, 10 табл.",
+          "price": 120,
+          "quantity": 0,
+          "availability": "Нет в наличии"
+        },
+        {
+          "name": "Нурофен сироп детский",
+          "price": 360,
+          "quantity": 0,
+          "availability": "Нет в наличии"
+        }
+      ]
+    },
+    {
+      "id": 4,
+      "name": "Неофарм",
+      "logo": "https://example.com/logo3.png",
+      "distance_km": 5.2,
+      "rating": 4.1,
+      "address": "Проспект Вернадского, 12, Москва",
+      "work_time": "08:00-20:00 Пн-Пт",
+      "min_price": 138,
+      "total_items": 25,
+      "available_items": 0,
+      "delivery_time": "Нет доставки",
+      "min_price_tag": false,
+      "long_term_assembly_tag": false,
+      "middle_price_tag": false,
+      "not_available": true,
+      "from_warehouse": false,
+      "paymentCash" : false,
+      "is_min_price": true,
+      "one_hour_assembly_tag": false,
+      "products": [
+        {
+          "name": "Супрастин (для инъекций), 20 мг/мл",
+          "price": 12800,
+          "quantity": 0,
+          "availability": "Нет в наличии"
+        },
+        {
+          "name": "Цитрамон Ультра, 10 табл.",
+          "price": 120,
+          "quantity": 0,
+          "availability": "Нет в наличии"
+        },
+        {
+          "name": "Нурофен сироп детский",
+          "price": 360,
+          "quantity": 0,
+          "availability": "Нет в наличии"
+        }
+      ]
+    }
+]

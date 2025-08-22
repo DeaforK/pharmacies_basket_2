@@ -1,0 +1,15 @@
+.arrow {
+    color: #78808F !important;
+    path{
+        fill: #DADADA;
+    }
+    &:hover {
+        color: #444952 !important;
+    }
+    &:hover path{
+        fill: #78808F;
+    }
+    &:hover svg{
+        fill: #78808F;
+    }
+}

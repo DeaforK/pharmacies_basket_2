@@ -1,0 +1,22 @@
+.price {
+    font-family: Roboto Flex !important;
+    font-weight: 600 !important;
+    font-size: 20px !important;
+    line-height: 24px !important;
+    letter-spacing: 0px !important;
+    text-align: right !important;
+
+    font-variation-settings:
+    "wdth" 148,   /* Width (ширина) */
+    "GRAD" 0,     /* Grade (насыщенность) */
+    "slnt" 0,     /* Slant (наклон) */
+    "XTRA" 468,   /* Extra (дополнительная регулировка) */
+    "XOPQ" 96,    /* X-Opaque (непрозрачность по оси X) */
+    "YOPQ" 79,    /* Y-Opaque (непрозрачность по оси Y) */
+    "YTLC" 514,   /* Y-Height Lowercase (высота строчных букв) */
+    "YTUC" 712,   /* Y-Height Uppercase (высота прописных букв) */
+    "YTAS" 750,   /* Y-Height Ascenders (высота верхних выносных элементов) */
+    "YTDE" -203,  /* Y-Height Descenders (высота нижних выносных элементов) */
+    "YTFI" 738
+    !important;   /* Y-Height Figures (высота цифр) */
+}
